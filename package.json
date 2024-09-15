@@ -1,8 +1,8 @@
 {
-  "name": "node_training_module1",
+  "name": "js_train",
   "version": "1.0.0",
-  "description": "for module 1",
-  "main": "index.js",
+  "description": "for testing purpose",
+  "main": "fetch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
